@@ -1,0 +1,13 @@
+.container{
+    width: 40%;
+    margin: 20px auto;
+    border: 10px solid pink;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.contitem{
+    padding: 30px;
+    color: aquamarine;
+    font-size: 30px;
+    
+}
